@@ -43,7 +43,7 @@ Compare your result with the original 8-cup experiment.
 
 In your notebook, explain your simulation process clearly, report and interpret the estimated probability, and discuss whether, based on this probability, you would consider extending or relaxing the p-value threshold compared to the original design.  
 
-![alt text](<Cup Image.webp>)
+![alt text](<Tea Cup.avif>)
 
 
 ======
