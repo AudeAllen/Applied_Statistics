@@ -6,9 +6,7 @@ Applied Statistics - Problems contains all the tasks/problems in the Higher Dipl
 Here I will explain how I came to the solution of given problems, reference the sources I researched for solving the problems and list the technologies I used for creating and testing the code. <br />
 <br />
 <br />
-I have added another folder which contains some images that I have included in my project for this module.
-<br />
-<br />
+
 
 # Table of contents - Tasks
 * [Software needed to run the tasks](#software-needed-to-run-the-tasks)	
