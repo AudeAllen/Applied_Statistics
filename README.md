@@ -1,7 +1,9 @@
 # Applied Statistics - Problems <br /> 
 <br /> 
-Applied Statistics - Problems contains all the tasks/problems in the Higher Diploma in Data Analytics course for this module <br /> 
-Here I will explain how I came to the solution of given problems, reference the sources I researched for solving the problems and list the technologies I used for creating and testing the code <br />
+Applied Statistics - Problems contains all the tasks/problems in the Higher Diploma in Data Analytics course for this module 
+<br /> 
+<br /> 
+Here I will explain how I came to the solution of given problems, reference the sources I researched for solving the problems and list the technologies I used for creating and testing the code. <br />
 <br />
 <br />
 
@@ -40,6 +42,8 @@ Simulate this experiment using `numpy` by randomly shuffling the cups many times
 Compare your result with the original 8-cup experiment.  
 
 In your notebook, explain your simulation process clearly, report and interpret the estimated probability, and discuss whether, based on this probability, you would consider extending or relaxing the p-value threshold compared to the original design.  
+
+![alt text](<Cup Image.webp>)
 
 
 ======
