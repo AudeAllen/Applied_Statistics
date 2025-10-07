@@ -16,8 +16,6 @@ Here I will explain how I came to the solution of given problems, reference the 
     * [problem3](#problem3)
     * [problem4](#problem4)
     
-   
-![alt text](<Tea Cup.avif>)
 
 Software needed to run the Tasks
 ======
