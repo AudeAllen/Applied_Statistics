@@ -8,7 +8,7 @@ Here I will explain how I came to the solution of given problems, reference the 
 # Table of contents - Tasks
 * [Software needed to run the tasks](#software-needed-to-run-the-tasks)	
 * [Problems](#problems)   
-    * [problem1 Extending the Lady Tasting Tea](#problem1-extending-the-lady-tasting-tea)
+    * [problem 1 Extending the Lady Tasting Tea](#problem-1-extending-the-lady-tasting-tea)
     * [problem2](#problem2)
     * [problem3](#problem3)
     * [problem4](#problem4)
@@ -29,7 +29,7 @@ Please see below for the  different tools and packages that I am using for the t
 
 Problems
 ======
-### ***Problem1 Extending the Lady Tasting Tea***
+### ***Problem 1 Extending the Lady Tasting Tea***
 
 Let's extend the Lady Tasting Tea experiment as follows.
 The original experiment has 8 cups: 4 tea-first and 4 milk-first.
