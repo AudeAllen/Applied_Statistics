@@ -29,7 +29,7 @@ Please see below for the  different tools and packages that I am using for the t
 
 Problems
 ======
-### ***problem1***
+### ***problem1 Extending the Lady Tasting Tea***
 
 Let's extend the Lady Tasting Tea experiment as follows.
 The original experiment has 8 cups: 4 tea-first and 4 milk-first.
