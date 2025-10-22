@@ -12,7 +12,7 @@ Here I will explain how I came to the solution of given problems, reference the 
 * [Software needed to run the tasks](#software-needed-to-run-the-tasks)	
 * [Problems](#problems)   
     * [problem 1 Extending the Lady Tasting Tea](#problem-1-extending-the-lady-tasting-tea)
-    * [problem2](#problem2)
+    * [problem 2 Normal Distribution](#problem2-normal-distribution)
     * [problem3](#problem3)
     * [problem4](#problem4)
     
@@ -43,9 +43,9 @@ Compare your result with the original 8-cup experiment.
 In your notebook, explain your simulation process clearly, report and interpret the estimated probability, and discuss whether, based on this probability, you would consider extending or relaxing the p-value threshold compared to the original design.  
 
 ======
-### ***problem2***
+### ***problem 2 Normal Distribution***
 
-
+Generate 100,000 samples of size 10 from the standard normal distribution. For each sample, compute the standard deviation with ddof=1 (sample SD) and with ddof=0 (population SD). Plot histograms of both sets of values on the same axes with transparency. Describe the differences you see. Explain how you expect these differences to change if the sample size is increased.
 
 
 ======
