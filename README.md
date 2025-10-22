@@ -12,7 +12,7 @@ Here I will explain how I came to the solution of given problems, reference the 
 * [Software needed to run the tasks](#software-needed-to-run-the-tasks)	
 * [Problems](#problems)   
     * [problem 1 Extending the Lady Tasting Tea](#problem-1-extending-the-lady-tasting-tea)
-    * [problem 2 Normal Distribution](#problem2-normal-distribution)
+    * [problem 2 Normal Distribution](#problem-2-normal-distribution)
     * [problem3](#problem3)
     * [problem4](#problem4)
     
