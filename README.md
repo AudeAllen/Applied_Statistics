@@ -7,6 +7,14 @@ Here I will explain how I came to the solution of given problems, reference the 
 <br />
 <br />
 
+# Notes
+
+The requirements.txt file should list all Python libraries that your notebooks depend on, and they will be installed using: <br />
+pip install -r requirements.txt<br />
+<br />
+<br />
+
+https://github.com/binder-examples/requirements/blob/main/README.md
 
 # Table of contents - Tasks
 * [Software needed to run the tasks](#software-needed-to-run-the-tasks)	
