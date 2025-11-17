@@ -55,6 +55,8 @@ In your notebook, explain your simulation process clearly, report and interpret 
 
 Generate 100,000 samples of size 10 from the standard normal distribution. For each sample, compute the standard deviation with ddof=1 (sample SD) and with ddof=0 (population SD). Plot histograms of both sets of values on the same axes with transparency. Describe the differences you see. Explain how you expect these differences to change if the sample size is increased.
 
+https://www.datacamp.com/blog/standard-normal-distribution
+
 
 ======
 ### ***problem3***
