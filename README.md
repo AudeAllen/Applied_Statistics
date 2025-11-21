@@ -7,12 +7,7 @@ Here I will explain how I came to the solution of given problems, reference the 
 <br />
 <br />
 
-# Notes
 
-The requirements.txt file should list all Python libraries that your notebooks depend on, and they will be installed using: <br />
-pip install -r requirements.txt<br />
-<br />
-<br />
 
 https://github.com/binder-examples/requirements/blob/main/README.md
 
@@ -28,13 +23,18 @@ https://github.com/binder-examples/requirements/blob/main/README.md
 Software needed to run the Tasks
 ======
 
-Please see below for the  different tools and packages that I am using for the tasks and anslyses.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. The requirements.txt file should list all Python libraries that your notebooks depend on, and they will be installed using: <br />
+pip install -r requirements.txt<br />
+<br />
+<br />
+
+Please see below as an example of the main packages that I am using for the problems and analyses.
 
 - Download Anaconda - Anaconda is a package that aims to simplify package management 
 - Download Visual Studio Code
 - Jupyer Notebook
 - Download Github - https://github.com/AudeAllen/Applied_Statistics.git
-- To run the tasks simply click on 'Run all' for tasks.ipynb. The project is a mix of code and markdown blocks which explain each part of each task. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
+- To run the problems simply click on 'Run all' for problems.ipynb. The project is a mix of code and markdown blocks which explain each part of each task. You can perform this action either in Visual Studio code or in Anconda in Jupyer Notebook.
 
 Problems
 ======
@@ -51,7 +51,7 @@ Compare your result with the original 8-cup experiment.
 In your notebook, explain your simulation process clearly, report and interpret the estimated probability, and discuss whether, based on this probability, you would consider extending or relaxing the p-value threshold compared to the original design.  
 
 ======
-### ***problem 2 Normal Distribution***
+### ***Problem 2 Normal Distribution***
 
 Generate 100,000 samples of size 10 from the standard normal distribution. For each sample, compute the standard deviation with ddof=1 (sample SD) and with ddof=0 (population SD). Plot histograms of both sets of values on the same axes with transparency. Describe the differences you see. Explain how you expect these differences to change if the sample size is increased.
 
@@ -59,7 +59,7 @@ https://www.datacamp.com/blog/standard-normal-distribution
 
 
 ======
-### ***problem3 t-Tests***
+### ***Problem3 t-Tests***
 
 A type II error occurs when a test fails to reject the null hypothesis even though it is false.
 For each mean difference $d = 0, 0.1, 0.2, \dots, 1.0$, repeat the following simulation 1,000 times:
