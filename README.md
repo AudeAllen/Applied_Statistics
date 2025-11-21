@@ -21,7 +21,7 @@ https://github.com/binder-examples/requirements/blob/main/README.md
 * [Problems](#problems)   
     * [problem 1 Extending the Lady Tasting Tea](#problem-1-extending-the-lady-tasting-tea)
     * [problem 2 Normal Distribution](#problem-2-normal-distribution)
-    * [problem3](#problem3)
+    * [problem3 t-Tests](#problem3-t-tests)
     * [problem4](#problem4)
     
 
@@ -59,7 +59,14 @@ https://www.datacamp.com/blog/standard-normal-distribution
 
 
 ======
-### ***problem3***
+### ***problem3 t-Tests***
+
+A type II error occurs when a test fails to reject the null hypothesis even though it is false.
+For each mean difference $d = 0, 0.1, 0.2, \dots, 1.0$, repeat the following simulation 1,000 times:
+
+1. Draw two samples of size 100, one from the standard normal distribution and one from the normal distribution with mean $d$ and standard deviation 1.
+2. Run an independent samples t-test on the two samples, rejecting the null hypothesis if the p-value is less than 0.05.
+3. Record the proportion of times the null hypothesis is not rejected.
 
 
 
