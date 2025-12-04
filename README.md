@@ -71,7 +71,15 @@ For each mean difference $d = 0, 0.1, 0.2, \dots, 1.0$, repeat the following sim
 
 
 ======
-### ***problem4***
+### ***problem4 ANOVA***
+
+Generate three independent samples, each of size 30, from normal distributions with means 0, 0.5, and 1, each with standard deviation 1.
+
+1. Perform a one-way ANOVA to test whether all three means are equal.
+2. Perform three independent two-sample t-tests: samples 1 vs 2, 1 vs 3, and 2 vs 3.
+3. Compare the conclusions.
+
+Write a short note on why ANOVA is preferred over running several t-tests.
 
 
 ======
