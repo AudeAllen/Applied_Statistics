@@ -50,13 +50,30 @@ Compare your result with the original 8-cup experiment.
 
 In your notebook, explain your simulation process clearly, report and interpret the estimated probability, and discuss whether, based on this probability, you would consider extending or relaxing the p-value threshold compared to the original design.  
 
+References <br />
+
+https://www.codecademy.com/resources/docs/python/math-module/math-comb <br />
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.seed.html <br />
+https://docs.python.org/3/tutorial/introduction.html#lists <br />
+https://realpython.com/monte-carlo-python/ <br />
+https://realpython.com/for-loop-python/ <br />
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.permutation.html <br />
+https://numpy.org/doc/stable/reference/generated/numpy.array_equal.html <br />
+https://docs.python.org/3/library/string.html#format-specification-mini-language <br />
+https://chatgpt.com/share/68f11265-8a68-8012-9b46-84dbe72c2aa5 <br />
+
 ======
 ### ***Problem 2 Normal Distribution***
 
 Generate 100,000 samples of size 10 from the standard normal distribution. For each sample, compute the standard deviation with ddof=1 (sample SD) and with ddof=0 (population SD). Plot histograms of both sets of values on the same axes with transparency. Describe the differences you see. Explain how you expect these differences to change if the sample size is increased.
 
-https://www.datacamp.com/blog/standard-normal-distribution
+References <br />
 
+https://www.datacamp.com/blog/standard-normal-distribution<br />
+https://www.geeksforgeeks.org/python/python-normal-distribution-in-statistics/<br />
+https://www.geeksforgeeks.org/python/numpy-std-in-python/<br />
+https://medium.com/@bluewall_46049/standard-deviation-variance-2424395a13be<br />
+https://chatgpt.com/share/691b6de7-a24c-8012-8b0c-677b600fa54b<br />
 
 ======
 ### ***Problem3 t-Tests***
@@ -68,7 +85,19 @@ For each mean difference $d = 0, 0.1, 0.2, \dots, 1.0$, repeat the following sim
 2. Run an independent samples t-test on the two samples, rejecting the null hypothesis if the p-value is less than 0.05.
 3. Record the proportion of times the null hypothesis is not rejected.
 
+References <br />
 
+https://www.scribbr.com/statistics/null-and-alternative-hypotheses/<br />
+https://en.wikipedia.org/wiki/Type_I_and_type_II_errors<br />
+https://projects.iq.harvard.edu/statistics/book/error-types<br />
+https://www.optimizely.com/optimization-glossary/type-2-error/#:~:text=Type%20II%20errors%20are%20like,exist%20when%20it%20actually%20does<br />
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html<br />
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html  <br />  
+https://github.com/xaviervasques/t-test/blob/master/ttest_scipy.py <br />
+https://matplotlib.org/stable/api/pyplot_api.html   <br />
+https://docs.python.org/3/library/stdtypes.html#mapping-types-dict<br />
+https://www.w3schools.com/python/python_dictionaries.asp <br />
+https://www.pythoncheatsheet.org/cheatsheet/dictionaries<br />
 
 ======
 ### ***problem4 ANOVA***
