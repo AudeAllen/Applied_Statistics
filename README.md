@@ -89,8 +89,6 @@ References <br />
 
 https://www.scribbr.com/statistics/null-and-alternative-hypotheses/<br />
 https://en.wikipedia.org/wiki/Type_I_and_type_II_errors<br />
-https://projects.iq.harvard.edu/statistics/book/error-types<br />
-https://www.optimizely.com/optimization-glossary/type-2-error/#:~:text=Type%20II%20errors%20are%20like,exist%20when%20it%20actually%20does<br />
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html<br />
 https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html  <br />  
 https://github.com/xaviervasques/t-test/blob/master/ttest_scipy.py <br />
@@ -110,6 +108,18 @@ Generate three independent samples, each of size 30, from normal distributions w
 
 Write a short note on why ANOVA is preferred over running several t-tests.
 
+
+References <br />
+
+https://medium.com/@ahmadsabry678/anova-tests-what-they-are-how-to-use-them-and-when-660b3a0496c6<br />
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html<br />
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html<br />
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html<br />
+https://github.com/ianmcloughlin/applied-statistics/blob/main/materials/anova.ipynb<br />
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.seed.html<br />
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html<br />
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html<br />
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html<br />
 
 ======
 
