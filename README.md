@@ -98,7 +98,7 @@ https://www.w3schools.com/python/python_dictionaries.asp <br />
 https://www.pythoncheatsheet.org/cheatsheet/dictionaries<br />
 
 ======
-### ***problem4 ANOVA***
+### ***Problem4 ANOVA***
 
 Generate three independent samples, each of size 30, from normal distributions with means 0, 0.5, and 1, each with standard deviation 1.
 
