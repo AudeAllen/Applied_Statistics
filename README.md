@@ -17,7 +17,7 @@ https://github.com/binder-examples/requirements/blob/main/README.md
     * [problem 1 Extending the Lady Tasting Tea](#problem-1-extending-the-lady-tasting-tea)
     * [problem 2 Normal Distribution](#problem-2-normal-distribution)
     * [problem3 t-Tests](#problem3-t-tests)
-    * [problem4](#problem4)
+    * [problem4 ANOVA](#problem4-aNOVA)
     
 
 Software needed to run the Tasks
